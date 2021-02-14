@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.instagram.com/p/B2NXtnygqAE/?utm_source=ig_web_copy_link">
+<img align="right" width="400" height="400" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo-300x300.png">
  
 # Welcome!
 
