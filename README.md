@@ -15,7 +15,7 @@ Neste perfil você vai encontrar meu portifólio e projetos de estudos ou da fac
 ![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=https://api.whatsapp.com/send?phone=5562981593943&text=ola)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:lucasgoias11@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lucasDEV20=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?lucasDEV20=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
  
 - Thanks for visiting. 
