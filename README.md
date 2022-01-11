@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo-300x300.png">
+<img align="right" width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
  
 # Welcome!
 
