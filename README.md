@@ -36,7 +36,7 @@ Divisor de águas entre o código e a música. Sou desenvolvedor com experiênci
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://soundcloud.com/taazmusic" target="_blank">
+  <a href="https://soundcloud.com/ttaaazz" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
 </p>
