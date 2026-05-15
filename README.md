@@ -16,14 +16,12 @@ Divisor de águas entre o código e a música. Sou desenvolvedor com experiênci
 ### 📊 Minhas Atividades no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasDEV20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasDEV20&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDEV20&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDEV20&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
-
-> **Nota:** O gráfico de contribuições (os quadradinhos que você postou) aparece automaticamente no final do perfil, mas podemos usar esses cards acima para dar mais detalhes técnicos.
 
 ---
 
