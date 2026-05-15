@@ -7,9 +7,12 @@ Desenvolvedor Full Stack & Produtor Musical (**Taaz**) baseado em Goiânia/GO.
 ### 🕹️ Contribuições (Pac-Man Mode)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucasDEV20/lucasDEV20/output/github-contribution-grid-snake.svg" alt="Pac-Man Eating Contribs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasDEV20/lucasDEV20/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasDEV20/lucasDEV20/output/github-contribution-grid-snake.svg">
+    <img alt="Pac-Man Eating Contribs" src="https://raw.githubusercontent.com/lucasDEV20/lucasDEV20/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
 
 
 ---
