@@ -10,7 +10,7 @@ Desenvolvedor Full Stack & Produtor Musical (**Taaz**) baseado em Goiânia/GO.
   <img src="https://raw.githubusercontent.com/lucasDEV20/lucasDEV20/output/github-contribution-grid-snake.svg" alt="Pac-Man Eating Contribs" />
 </div>
 
-> **Nota:** Para o Pac-Man aparecer, use o código da Action abaixo. Ele usa o mesmo rastro da cobrinha, mas com o visual de "comer" os pontos das suas contribuições!
+
 
 ---
 
