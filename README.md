@@ -1,66 +1,49 @@
-<img align="right" width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
- 
-# Welcome!
+# Olá, eu sou o Lucas Araújo! 👋
 
-...
+Divisor de águas entre o código e a música. Sou desenvolvedor com experiência em Frontend e Backend, além de produtor musical e DJ.
 
-## My name is Lucas Araujo da SILVA. I work as a avatar at GitHUB.
- 
-Neste perfil você vai encontrar meu portifólio e projetos de estudos ou da faculdade, minhas redes estão abaixo.
+---
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LucasDEV20&repo=LucasDEV20&countColorcountColor)
+### 🚀 Tecnologias & Ferramentas
 
-### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;
-<br>
-![js](https://img.shields.io/badge/-js-05122A?style=flat&color=green)&nbsp;
-<br>
-![py](https://img.shields.io/badge/-py-05122A?style=flat&color=green)&nbsp;
-<br>
-![javaScript](https://img.shields.io/badge/-javaScript-05122A?style=flat&color=green)&nbsp;
-<br>
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;
-<br>
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;  
-<br>
-![Amgular](https://img.shields.io/badge/-Amgular-05122A?style=flat&color=orange)&nbsp;
-<br>
-![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;  
-<br>
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&color=yellow)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;
-<br>
-![Mobile](https://img.shields.io/badge/-Mobile-05122A?style=flat&color=blue)&nbsp;  
-![Web](https://img.shields.io/badge/-Web-05122A?style=flat&color=blue)&nbsp;  
-<br>
+| Frontend | Backend | Design & Áudio |
+| :--- | :--- | :--- |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Ableton](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) |
 
+---
 
+### 📊 Minhas Atividades no GitHub
 
-### Analytics ⚙️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasDEV20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDEV20&layout=compact&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDEV20&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=lucasDEV20&count_private=true&show_icons=true)
+> **Nota:** O gráfico de contribuições (os quadradinhos que você postou) aparece automaticamente no final do perfil, mas podemos usar esses cards acima para dar mais detalhes técnicos.
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lucasDEV20&hide_border=true)
+---
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
-
-### Let's connect? 🤝
+### 🔗 Vamos nos conectar?
 
 <p align="left">
+  <a href="https://www.instagram.com/taaz.music" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://soundcloud.com/taazmusic" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/lucas-a-silva-ba60741a2/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+---
 
-<a href="https://twitter.com/Thelucas001"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/lucas_aa_silva_19/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?lucasDEV20=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=lucasDEV20&show_icons=true&theme=dark)
-
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+### 🌿 Além do Código
+* **Taaz:** Meu projeto de Psytrance focado em texturas e grooves.
+* **Bonsai:** Cultivo de árvores em miniatura (Mirra Bonsai).
+* **Colecionismo:** Fanático por Action Figures (One Piece, Naruto, Pokémon).
