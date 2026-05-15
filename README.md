@@ -15,15 +15,14 @@ Divisor de águas entre o código e a música. Sou desenvolvedor com experiênci
 
 ### 📊 Minhas Atividades no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasDEV20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lucasDEV20/lucasDEV20/blob/output/github-contribution-grid-snake-dark.svg">
   <img src="https://github.com/medicijr/medicijr/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-</p>
+</div>
 ---
 
 ### 🔗 Vamos nos conectar?
