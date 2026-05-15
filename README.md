@@ -58,6 +58,8 @@ Neste perfil você vai encontrar meu portifólio e projetos de estudos ou da fac
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?lucasDEV20=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
+![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=lucasDEV20&show_icons=true&theme=dark)
+
  
 - Thanks for visiting. 
  
