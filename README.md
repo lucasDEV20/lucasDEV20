@@ -16,6 +16,15 @@ Desenvolvedor Full Stack & Produtor Musical (**Taaz**) baseado em Goiânia/GO.
 
 ---
 
+### 🎵 Current Studio Session (Taaz Music)
+<p align="left">
+  <img src="https://img.shields.io/badge/DAW-Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Produzindo_Psytrance-9370DB?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHASE-Mixing_&_Mastering-00FF7F?style=for-the-badge" />
+</p>
+
+---
+
 ### 🚀 Tecnologias & Ferramentas
 
 | Frontend | Backend | Design & Áudio |
@@ -41,13 +50,13 @@ Desenvolvedor Full Stack & Produtor Musical (**Taaz**) baseado em Goiânia/GO.
 
 <p align="left">
   <a href="https://www.instagram.com/taaz.music" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-araújo-da-silva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://soundcloud.com/taazmusic" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
   </a>
 </p>
 
@@ -56,4 +65,4 @@ Desenvolvedor Full Stack & Produtor Musical (**Taaz**) baseado em Goiânia/GO.
 ### 🌿 Além do Código
 * **Música:** Produção de Psytrance (Projeto **Taaz**).
 * **Bonsai:** Cultivo e cuidados (Mirra Bonsai).
-* **Colecionismo:** Action Figures de One Piece, Naruto e Pokémon.
+* **Hobbies:** Colecionador de Action Figures (One Piece, Naruto e Pokémon).
