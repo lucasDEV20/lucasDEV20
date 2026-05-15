@@ -4,7 +4,7 @@ Desenvolvedor Full Stack & Produtor Musical (**Taaz**) baseado em Goiânia/GO.
 
 ---
 
-### 🕹️ Contribuições (Pac-Man Mode)
+
 
 <div align="center">
   <picture>
